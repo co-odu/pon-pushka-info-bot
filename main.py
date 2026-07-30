@@ -16,7 +16,7 @@ from telegram.ext import (
  
 # ================== НАСТРОЙКИ ==================
 BOT_TOKEN = "8168690441:AAEAdOL4Ioc1BVbV9_U-xEK87_n0_jmMfqI"
-ADMIN_ID = 6235378997
+ADMIN_IDS = [6235378997, 111111111]
 CHATS_FILE = "chats.json"
 # ================================================
  
